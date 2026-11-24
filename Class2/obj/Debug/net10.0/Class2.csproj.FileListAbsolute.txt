@@ -1,0 +1,14 @@
+C:\Users\Мухаммад\Desktop\Practic\Class2\bin\Debug\net10.0\Class2.exe
+C:\Users\Мухаммад\Desktop\Practic\Class2\bin\Debug\net10.0\Class2.deps.json
+C:\Users\Мухаммад\Desktop\Practic\Class2\bin\Debug\net10.0\Class2.runtimeconfig.json
+C:\Users\Мухаммад\Desktop\Practic\Class2\bin\Debug\net10.0\Class2.dll
+C:\Users\Мухаммад\Desktop\Practic\Class2\bin\Debug\net10.0\Class2.pdb
+C:\Users\Мухаммад\Desktop\Practic\Class2\obj\Debug\net10.0\Class2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Мухаммад\Desktop\Practic\Class2\obj\Debug\net10.0\Class2.AssemblyInfoInputs.cache
+C:\Users\Мухаммад\Desktop\Practic\Class2\obj\Debug\net10.0\Class2.AssemblyInfo.cs
+C:\Users\Мухаммад\Desktop\Practic\Class2\obj\Debug\net10.0\Class2.csproj.CoreCompileInputs.cache
+C:\Users\Мухаммад\Desktop\Practic\Class2\obj\Debug\net10.0\Class2.dll
+C:\Users\Мухаммад\Desktop\Practic\Class2\obj\Debug\net10.0\refint\Class2.dll
+C:\Users\Мухаммад\Desktop\Practic\Class2\obj\Debug\net10.0\Class2.pdb
+C:\Users\Мухаммад\Desktop\Practic\Class2\obj\Debug\net10.0\Class2.genruntimeconfig.cache
+C:\Users\Мухаммад\Desktop\Practic\Class2\obj\Debug\net10.0\ref\Class2.dll

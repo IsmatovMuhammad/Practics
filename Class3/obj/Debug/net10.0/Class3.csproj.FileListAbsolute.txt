@@ -1,0 +1,14 @@
+C:\Users\Мухаммад\Desktop\Practic\Class3\bin\Debug\net10.0\Class3.exe
+C:\Users\Мухаммад\Desktop\Practic\Class3\bin\Debug\net10.0\Class3.deps.json
+C:\Users\Мухаммад\Desktop\Practic\Class3\bin\Debug\net10.0\Class3.runtimeconfig.json
+C:\Users\Мухаммад\Desktop\Practic\Class3\bin\Debug\net10.0\Class3.dll
+C:\Users\Мухаммад\Desktop\Practic\Class3\bin\Debug\net10.0\Class3.pdb
+C:\Users\Мухаммад\Desktop\Practic\Class3\obj\Debug\net10.0\Class3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Мухаммад\Desktop\Practic\Class3\obj\Debug\net10.0\Class3.AssemblyInfoInputs.cache
+C:\Users\Мухаммад\Desktop\Practic\Class3\obj\Debug\net10.0\Class3.AssemblyInfo.cs
+C:\Users\Мухаммад\Desktop\Practic\Class3\obj\Debug\net10.0\Class3.csproj.CoreCompileInputs.cache
+C:\Users\Мухаммад\Desktop\Practic\Class3\obj\Debug\net10.0\Class3.dll
+C:\Users\Мухаммад\Desktop\Practic\Class3\obj\Debug\net10.0\refint\Class3.dll
+C:\Users\Мухаммад\Desktop\Practic\Class3\obj\Debug\net10.0\Class3.pdb
+C:\Users\Мухаммад\Desktop\Practic\Class3\obj\Debug\net10.0\Class3.genruntimeconfig.cache
+C:\Users\Мухаммад\Desktop\Practic\Class3\obj\Debug\net10.0\ref\Class3.dll
