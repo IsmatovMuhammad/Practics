@@ -1,0 +1,15 @@
+C:\Users\Мухаммад\Desktop\Practic\Home2\bin\Debug\net10.0\Home2.exe
+C:\Users\Мухаммад\Desktop\Practic\Home2\bin\Debug\net10.0\Home2.deps.json
+C:\Users\Мухаммад\Desktop\Practic\Home2\bin\Debug\net10.0\Home2.runtimeconfig.json
+C:\Users\Мухаммад\Desktop\Practic\Home2\bin\Debug\net10.0\Home2.dll
+C:\Users\Мухаммад\Desktop\Practic\Home2\bin\Debug\net10.0\Home2.pdb
+C:\Users\Мухаммад\Desktop\Practic\Home2\obj\Debug\net10.0\Home2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Мухаммад\Desktop\Practic\Home2\obj\Debug\net10.0\Home2.AssemblyInfoInputs.cache
+C:\Users\Мухаммад\Desktop\Practic\Home2\obj\Debug\net10.0\Home2.AssemblyInfo.cs
+C:\Users\Мухаммад\Desktop\Practic\Home2\obj\Debug\net10.0\Home2.csproj.CoreCompileInputs.cache
+C:\Users\Мухаммад\Desktop\Practic\Home2\obj\Debug\net10.0\Home2.sourcelink.json
+C:\Users\Мухаммад\Desktop\Practic\Home2\obj\Debug\net10.0\Home2.dll
+C:\Users\Мухаммад\Desktop\Practic\Home2\obj\Debug\net10.0\refint\Home2.dll
+C:\Users\Мухаммад\Desktop\Practic\Home2\obj\Debug\net10.0\Home2.pdb
+C:\Users\Мухаммад\Desktop\Practic\Home2\obj\Debug\net10.0\Home2.genruntimeconfig.cache
+C:\Users\Мухаммад\Desktop\Practic\Home2\obj\Debug\net10.0\ref\Home2.dll
